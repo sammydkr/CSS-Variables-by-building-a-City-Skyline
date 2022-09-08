@@ -1,0 +1,12 @@
+ <div class="background-buildings"></div>
+    <div class="bb1">
+      </div>
+      
+      
+   
+   CSS 
+   
+   .bb1{
+width:10%;
+height:70%;
+    }
